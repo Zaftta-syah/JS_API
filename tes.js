@@ -68,5 +68,9 @@ library.borrowBook("JavaScript Basics");
 // E. Menampilkan Buku yang Masih tersedia
 console.log("E. Menampilkan Buku yang Masih tersedia");
 library.displayAvailableBooks();
+
+
+
+
 console.log("E. Menampilkan Buku yang Masih tersedia");
 library.displayAvailableBooks();
